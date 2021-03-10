@@ -26,9 +26,7 @@
 
 ​	Na tela de opções, o usuário deve escolher entre as opções para realizar alguma ação, como na imagem a seguir:
 
-<img src="C:\Users\thall\Desktop\Menu.png" alt="Menu"  />
-
-
+![Menu](C:\Users\thall\Desktop\estudos\FATEC\4Semestre\POO\Programas\Calculadora\Menu.png)
 
 #### Opções de entradas:
 
@@ -38,13 +36,13 @@
 
 
 
-![Entradas](C:\Users\thall\Desktop\Entrada.png)
+![Entrada](C:\Users\thall\Desktop\estudos\FATEC\4Semestre\POO\Programas\Calculadora\Entrada.png)
 
 
 
 ​	Para evitar erros na execução de operações de divisão, o programa impede o usuário de tentar realizar divisões por 0 (zero).
 
-![Verificar](C:\Users\thall\Desktop\dividir.png)
+![Verificar](C:\Users\thall\Desktop\estudos\FATEC\4Semestre\POO\Programas\Calculadora\dividir.png)
 
 
 
