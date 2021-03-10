@@ -10,6 +10,10 @@
 
 ​	É necessário ter instalado na máquina algum leitor de arquivos do tipo .jar, ou então uma IDE para Java, como ApacheNetBeans.
 
+​	O arquvio .jar está armazenado na pasta "target", o nome do arquivo é "Calculadora-1.0-SNAPSHOT.jar".
+
+​	Para utilizar através de uma IDE, basta importar os arquivos da pasta "src -> main -> java -> CalculadoraMain".
+
 
 
 ### Funcionalidades:
